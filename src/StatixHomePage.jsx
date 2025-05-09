@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { Button } from "../components/ui/button";
-import { Card, CardContent } from "../components/ui/card";
+import { Button } from "./components/ui/button";
+import { Card, CardContent } from "./components/ui/card";
 import { Phone, Mail, MapPin, Star } from "lucide-react";
 
 export default function StatixHomePage() {
